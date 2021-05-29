@@ -1,0 +1,8 @@
+---
+name: VanillaGUI
+version: 1.0.0
+main: Dqfault\VanillaGUI\Main
+api: 3.19.2
+mcpe-protocol: 431
+deescription: This plugin enables Vanilla anvil and enchants
+...
